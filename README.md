@@ -12,8 +12,13 @@ I am an Information Technology student focused on **SAP development** and **Flut
   - AI Agents & MCP integrations for SAP (LangChain, n8n)
   - SAPUI5
   - Fiori Flexible Programming
-- 🏆 SAP Certified: ABAP Cloud (Back-End Developer), CAP, SAP Generative AI Developer.
 - 📫 Reach out to me at: <a href="mailto:fjcm1306@gmail.com">fjcm1306@gmail.com</a>
+
+## 🏆 Certifications
+
+- SAP Certified Development Associate – Back-End Developer, ABAP Cloud (C_ABAPD_2507)
+- SAP Certified Associate – SAP Cloud Application Programming Model (CAP)
+- SAP Certified – SAP Generative AI Developer
 
 ## My Skills Include
 
@@ -35,4 +40,13 @@ I am an Information Technology student focused on **SAP development** and **Flut
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+</span>
+
+<h4>Other Tools and Technologies</h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
 </span>
