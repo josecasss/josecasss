@@ -4,13 +4,14 @@
 
 ⭐ ***About me***
 
-I am an Information Technology student focused on **SAP development** and **Flutter mobile development**. I love building enterprise-grade solutions on top of SAP BTP and crafting cross-platform mobile apps with Flutter.
+I am an Information Technology student focused on **SAP development** and **Flutter mobile development**. I love building enterprise-grade solutions on top of SAP BTP using the most modern SAP technologies.
 
+- 🧠 SAP enthusiast, focused on **ABAP Cloud, RAP, CAP, Fiori Elements, SAPUI5 and SAP BTP**.
 - 🌱 I'm currently learning...
-  - Flutter & Dart
-  - Advanced SAP RAP & CAP patterns
-- 👯 I'm looking forward to collaborating on SAP and Flutter open source projects.
-- ✔ Ask me about SAP (ABAP, RAP, CAP, Fiori, BTP) or Flutter, I am happy to help!
+  - Advanced ABAP RAP & CAP patterns
+  - AI Agents & MCP integrations for SAP (LangChain, n8n)
+  - SAPUI5
+  - Fiori Flexible Programming
 - 🏆 SAP Certified: ABAP Cloud (Back-End Developer), CAP, SAP Generative AI Developer.
 - 📫 Reach out to me at: <a href="mailto:fjcm1306@gmail.com">fjcm1306@gmail.com</a>
 
@@ -35,20 +36,3 @@ I am an Information Technology student focused on **SAP development** and **Flut
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
 </span>
-
-<h4>Other Tools and Technologies</h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-</span>
-
-## Check out my Social Media
-
-<a href="https://www.linkedin.com/in/freddy-casas-mejia-b7796a276/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:fjcm1306@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
